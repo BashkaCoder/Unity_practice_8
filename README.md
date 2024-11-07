@@ -1,2 +1,2 @@
-# Unity_practice_8
-DI/Zenject
+# DI/Zenject 👇
+Practice dedicated to learn more Dependency injection.
